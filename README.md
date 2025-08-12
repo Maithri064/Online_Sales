@@ -1,9 +1,9 @@
-## Sales Trend Analysis Using Aggregations
+# Sales Trend Analysis Using Aggregations
 
-### Objective
+## Objective
 Analyze monthly revenue and order volume using SQL aggregation functions.
 
-### Dataset
+## Dataset
 online_sales table containing:
 
 order_id (INT)
@@ -19,7 +19,10 @@ product_id (INT)
   2. Insert Sample Data
        Inserted 10 rows of fake sales data from Jan–May 2024.
   3. Monthly Trend Query
+
+     <img width="286" height="110" alt="Image" src="https://github.com/user-attachments/assets/6860bac9-439e-49dd-b6e1-7def271929dd" />
      
+
 
 
 
